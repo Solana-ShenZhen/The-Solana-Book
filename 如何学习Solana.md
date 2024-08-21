@@ -7,8 +7,8 @@ Solana作为相对比较新的公链，资料上肯定没有ETH那么丰富。�
 2. `https://solana.stackexchange.com/` solana的stack exchange上提问
 3. `https://stackoverflow.com/` stakeoverflow下面选择solana话题 
 
-还有擅用discord以及telegram的官方群以及一些微信群，github的issue都是非常好的帮助你找到问题所在的方式。
+还有擅用discord以及telegram的官方群以及一些微信群，github的issue都是非常好的帮助你找到问题所在的方式, X(twitter)也是非常好的找问题解决方案以及一些资料非常好的网站。
 
 当你有足够能力去解决问题的时候但对一些概念理解不深或和其他人交流时无法很好的表述时，要常回头看以前看过的基础入门等等文档。大白话就是，全力往前冲，遇到问题，及时补课，养成习惯经常补充干粮。
 
-感谢 @lak02 以及 @ longxiaoLX 对本项目的支持！
+感谢 @lak02 以及 @longxiaoLX 对本项目的支持！
